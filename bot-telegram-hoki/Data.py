@@ -8,7 +8,7 @@ from pyrogram.types import InlineKeyboardButton,WebAppInfo
 class Data:
     info = """
 <b>
-├ https://t.me/anyadevass - Anya Deva
+├ https://t.me/bukananyadevass - KAISAR LANGIT
 ├ https://t.me/Natasha_cantiq - Natasha Cantiq
 ├ https://t.me/brekeyle - Cakwe
 </b>
@@ -65,4 +65,5 @@ class Data:
 
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat di akses melalui Link Khusus.</b>
 """
+
 

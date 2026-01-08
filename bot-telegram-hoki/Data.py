@@ -40,17 +40,24 @@ class Data:
     ]
 
     buttons = [
-        [InlineKeyboardButton("🎰 INFO GACOR", url="https://t.me/+5_EzmCP-ysc5ZDc1"), InlineKeyboardButton("🎖 PROMO", url="https://yk69.top/YUK69")],
-        [InlineKeyboardButton("💣 BOT INFO", callback_data="infb"), InlineKeyboardButton("❤️ OWNER", callback_data="ownDt")],
-        [InlineKeyboardButton("📚 ABOUT ME", callback_data="about"), InlineKeyboardButton("❌ ᴛᴜᴛᴜᴘ", callback_data="close")],
-        [InlineKeyboardButton("⬅️ BACK", callback_data="back")],
+        [InlineKeyboardButton("FB OFC", url="https://hk777.top/FACEBOOKGRUPHOKI777"), InlineKeyboardButton("TELE OFC", url="https://hk777.top/TELEGRAMGRUPHOKI777")],
+        [InlineKeyboardButton("WA OFC", url="https://wa.me/6282312622550"), InlineKeyboardButton("INFO GACOR", url="t.me/infogacorhoki777")],
+        [InlineKeyboardButton("⭐️ APK HOKI777 ⭐️", web_app=WebAppInfo(url="https://hk777.top/HOKI777"))],
+        [InlineKeyboardButton("⭐️ LOGIN HOKI777 ⭐️", url="t.me/infogacorhoki777")],
+        [InlineKeyboardButton("TELE CREATOR", url="https://hk777.top/TELE-CREATOR-HOKI777"), InlineKeyboardButton("WA CREATOR", url="https://hk777.top/CREATOR-HOKI777")],
+        [InlineKeyboardButton("LIVECHAT", url="https://secure.livechatinc.com/licence/19408592/v2/open_chat.cgi"), InlineKeyboardButton("RTP LIVE", url="https://hk777.top/RTP-Hoki777")],
+        [InlineKeyboardButton("❌ ᴛᴜᴛᴜᴘ", callback_data="close")],
     ]
 
 
     startbtn = [
-        [InlineKeyboardButton("🌍 DAFTAR YUK69",url="https://vip.livechatyuk69.net/register"), InlineKeyboardButton("🔒DOWNLOAD APK", web_app=WebAppInfo(url="https://drive.google.com/uc?export=download&id=1x83J4LIPd9COClmkE0Lp5D4tHOec9zN9"))],
-        [InlineKeyboardButton("💣 INFO GACOR", url="https://t.me/infogacorhoki777"), InlineKeyboardButton("✅ KLAIM BONUS ", url="https://tawk.to/yuk69berkah")],
-        [InlineKeyboardButton("📚 BOCORAN LIVE", url="https://es.rtpyk-69.autos"), InlineKeyboardButton("❌ ᴛᴜᴛᴜᴘ", callback_data="close")],
+        [InlineKeyboardButton("FB OFC", url="https://hk777.top/FACEBOOKGRUPHOKI777"), InlineKeyboardButton("TELE OFC", url="https://hk777.top/TELEGRAMGRUPHOKI777")],
+        [InlineKeyboardButton("WA OFC", url="https://wa.me/6282312622550"), InlineKeyboardButton("INFO GACOR", url="t.me/infogacorhoki777")],
+        [InlineKeyboardButton("⭐️ APK HOKI777 ⭐️", web_app=WebAppInfo(url="https://hk777.top/HOKI777"))],
+        [InlineKeyboardButton("⭐️ LOGIN HOKI777 ⭐️", url="t.me/infogacorhoki777")],
+        [InlineKeyboardButton("TELE CREATOR", url="https://hk777.top/TELE-CREATOR-HOKI777"), InlineKeyboardButton("WA CREATOR", url="https://hk777.top/CREATOR-HOKI777")],
+        [InlineKeyboardButton("LIVECHAT", url="https://secure.livechatinc.com/licence/19408592/v2/open_chat.cgi"), InlineKeyboardButton("RTP LIVE", url="https://hk777.top/RTP-Hoki777")],
+        [InlineKeyboardButton("❌ ᴛᴜᴛᴜᴘ", callback_data="close")],
     ]
 
     ABOUT = """
@@ -58,3 +65,4 @@ class Data:
 
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat di akses melalui Link Khusus.</b>
 """
+

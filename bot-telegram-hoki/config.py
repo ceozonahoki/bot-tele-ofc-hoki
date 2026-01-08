@@ -67,5 +67,6 @@ LOGGER = logging.getLogger("tgfs")
 PROTECT_CONTENT = strtobool(os.environ.get("PROTECT_CONTENT", "False"))
 START_MSG = os.environ.get(
     "START_MESSAGE",
-    "<b>Halo {first}\n\nSELAMAT DATANG DI MINI APPS TELEGRAM YUK69\n\nUntuk main versi aplikasi simple dari YUK69, bisa klik pada menu APK YUK69 untuk kestabilan JARINGAN dan ANTI BLOKIR!.\n\n\nSalam Jackpot Mania ^^</b>",
+    "<b>Hello kak {first} ^^\n\nSelamat datang di Hoki777.\n\nNikmati sensasi bermain dengan permainan paling lengkap terfavorit bagi para bettor dari salah satu situs terbaik di Asia Tenggara.\n\n\nUntuk daftar dan dapat info terbaru atau klaim promo bisa menggunakan tombol dibawah ini. Salam Jackpot Mania ^^.</b>",
 )
+
